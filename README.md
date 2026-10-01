@@ -1,5 +1,5 @@
-# PDA-226 – Album Cover Studio
-**SE 226 Spring 2025-2026 | İzmir University of Economics**
+ Album Cover Studio
+
 
 ---
 
